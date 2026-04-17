@@ -32,7 +32,7 @@ It is especially useful in scenarios such as remote technical support, working f
 
 ## What It Looks Like
 
-<img src="https://cdn.document360.io/b94c9ac2-20ec-4c7e-b325-135b0ed113f9/Images/Documentation/my.ad%202%20dashboard.png" 
+<img src="https://f.hellowork.com/bdmtools/2020/12/anydesk-1.png" 
      alt="GitHub Interface"
      style="border: 3px solid #333; 
             border-radius: 15px; 
